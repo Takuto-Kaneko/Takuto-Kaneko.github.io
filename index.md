@@ -10,4 +10,6 @@ permalink: /
 
 ## Selected Publications
 
-{% include publications.html %}
+{% if site.scholar %}
+  {% bibliography %}
+{% endif %}
