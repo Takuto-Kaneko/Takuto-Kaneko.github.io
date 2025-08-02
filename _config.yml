@@ -1,0 +1,17 @@
+# _config.yml
+title: "Takuto Kaneko"
+author:
+  name: "Takuto Kaneko"
+  affiliation: "The University of Tokyo"
+  email: "takutokaneko682[at]gmail.com"
+description: "研究者ポートフォリオ（al-folio 最小構成サンプル）"
+url: "https://Takuto-Kaneko.github.io"  # 実際の GitHub Pages URL に置き換え
+baseurl: ""  # ユーザーサイトなら空
+
+plugins:
+  - jekyll-scholar
+
+scholar:
+  style: apa
+  locale: en
+  bibliography: _bibliography/papers.bib
