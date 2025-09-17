@@ -22,7 +22,7 @@ title: Takuto Kaneko
 email: takutokaneko682[at]gmail.com
 description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://takuto-kaneko.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:
 
