@@ -36,6 +36,8 @@ plugins:
 nav:
   - title: Home
     url: /
+  - title: Japanese
+    url: /japanese/
   - title: Research
     url: /research/
   - title: CV
