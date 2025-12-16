@@ -1,7 +1,10 @@
 # _data/navigation.yml
 - title: Home
   url: /
+- title: Japanese
+- url: /ja/
 - title: Research
   url: /research/
 - title: CV
   url: /cv/
+
