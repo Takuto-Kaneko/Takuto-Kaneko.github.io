@@ -31,6 +31,7 @@ remote_theme: aterenin/minima-reboot
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 
 nav:
