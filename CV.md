@@ -8,14 +8,19 @@ permalink: /cv/
  - BA in Management, School of Management, Tokyo University of Science, 2025
 
 #### Presentation 
+ - January 2026: ERATO meeting (The University of Tokyo)
  - August 2025: Summer Workshop on Game Theory and Experimental Economics (Waseda University)
  - June 2025: European Meeting on Game Theory 2025, or SING20 (Maastricht University)
  - March 2025: Spring Conference (Seikei University)
 
 #### Research Assistant
  - [The University of Tokyo Market Design Center](https://www.mdc.e.u-tokyo.ac.jp/en/) (2025 - )
+ - RIKEN Center for AIP, Computational Social Choice Team (2026 - )
 
 #### Teaching Assistant
+ - Intermediate Microeconomics I, International Christian University, Undergraduate, Winter 2026
+ - Introduction to Mathematics for Economics, International Christian University, Undergraduate, Fall 2026
+ - Game theory, International Christian University, Undergraduate, Spring 2026
  - Intermediate Microeconomics I, International Christian University, Undergraduate, Winter 2025
  - Introduction to Mathematics for Economics, International Christian University, Undergraduate, Fall 2025
  - Game theory, International Christian University, Undergraduate, Spring 2025
