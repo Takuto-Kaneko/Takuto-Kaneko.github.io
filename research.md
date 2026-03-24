@@ -9,9 +9,9 @@ permalink: /research/
 
  <ol reversed>
   <li>
-  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5290078">k-Boundedness, Feasible Communication Structures, and the Myerson Value.</a>
+  <a href="https://www.sciencedirect.com/science/article/pii/S0304406826000303">k-Boundedness, Feasible Communication Structures, and the Myerson Value.</a>
   <br>
-  <strong><em>Journal of Mathematical Economics</em></strong>, forthcoming (joint with <a href="https://sites.google.com/site/snakada0911/home">Satoshi Nakada</a> and <a href="https://sites.google.com/view/davidlowing/home">David Lowing</a>)
+  <strong><em>Journal of Mathematical Economics</em></strong>, 2026, Vol. 124, 103242.  (joint with <a href="https://sites.google.com/site/snakada0911/home">Satoshi Nakada</a> and <a href="https://sites.google.com/view/davidlowing/home">David Lowing</a>)
   </li>
   
   <ul>
