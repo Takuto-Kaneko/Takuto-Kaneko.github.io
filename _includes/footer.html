@@ -1,6 +1,6 @@
 <footer id="site-footer">
   <div class="container">
-    <div class="h5 pt-4">{{ site.title | escape }}</div>
+    <div class="h5 pt-4 text-secondary">{{ site.title | escape }}</div>
 
     <div class="row">
       <div class="col col-lg-3">
@@ -8,13 +8,12 @@
           <li class="text-secondary">
             {% if site.author %}
               {{ site.author | escape }}
-            {% else %}
-              {{ site.title | escape }}
             {% endif %}
             </li>
             {% if site.email %}
               <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {% endif %}
+            <p>Last updated: {{ site.last_updated }}</p>
         </ul>
       </div>
       {% if site.footer_icons %}

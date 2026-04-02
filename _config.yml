@@ -32,7 +32,9 @@ plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-last-modified-at
 
+last_updated: 2026-04-03
 
 nav:
   - title: Home
@@ -62,3 +64,5 @@ nav:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
